@@ -164,7 +164,7 @@ using **Power BI Desktop** to explore the interactive dashboard.
 
 ## 👨‍💻 Author
 
-**Nitin Singh**
+**Utkarsh Kumar**
 
 Final Year EIE Student, NIT Silchar
 
