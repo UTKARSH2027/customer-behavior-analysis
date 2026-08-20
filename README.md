@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis
+## Customer Shopping Behavior Analysis
 
 ## 📌 Project Overview
 
@@ -169,5 +169,3 @@ using **Power BI Desktop** to explore the interactive dashboard.
 Final Year EIE Student, NIT Silchar
 
 Interested in **Data Analytics, SQL, Power BI, and Full-Stack Development**.
-
-Feel free to explore the project, provide feedback, or connect with me for collaboration and learning opportunities.
